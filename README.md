@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharujaye&label=Profile%20views&color=0e75b6&style=flat" alt="tharujaye" /> </p>
 
-- 🔭 I’m currently working on **Tiii Jay Cafe**
+- 🔭 I’m currently working on **Tiii Jay Cafe** project
 
 - 🌱 I’m currently learning **Flutter**
 
